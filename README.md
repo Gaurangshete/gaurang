@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurangshete&show_icons=true&locale=en" alt="gaurangshete" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurangshete&" alt="gaurangshete" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurangshete&" alt="gaurangshete" /></p> 
 
